@@ -32,6 +32,7 @@
     "dependencies": {
         "multi-hashing": "git+https://github.com/wahaobi/node-multi-hashing-yescrypt-0.5.git",
         "bignum": "*",
+        "blake2": "*",
         "base58-native": "*",
         "async": "*",
         "redis": "*",
